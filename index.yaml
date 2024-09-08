@@ -9,6 +9,6 @@ entries:
     name: nginx-chart
     type: application
     urls:
-    - https://vidalgithub.github.io/helm-charts/nginx-chart-0.1.0.tgz
+    - https://vidalgithub.github.io/charts-nginx/nginx-chart-0.1.0.tgz
     version: 0.1.0
 generated: "2024-09-08T01:14:10.019508701-05:00"
